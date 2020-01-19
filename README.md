@@ -2,4 +2,4 @@
 
 :fire: January
 - React Umi Dva Antd 
-- 
+- TypeScript
