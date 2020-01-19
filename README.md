@@ -1,6 +1,10 @@
 # 2020
 
 :fire: January
-- React Umi Dva Antd 
+- React
+- Umi
+- antd
+- Dva
 - TypeScript
 - pm2
+- hexo
